@@ -1,5 +1,6 @@
-# Desafios-Typescript-SantanderDIO
+# Introdução Prática ao TypeScript - DIO
 
-# Solving the challenges, exercises 1, 2, 3 and 4 complete Typescript.
+*O projeto apresentado faz parte dos desafios da plataforma [Digital Innovation One](https://web.dio.me/home), através do Santander Bootcamp Fullstack Developer.*
 
-## Challenge 4: Consuming API from full CRUD website https://www.themoviedb.org/.
+❯❯ 🚀 DESAFIO ↓
+*Crie um projeto em TypeScript com uma abordagem totalmente prática. O projeto base está neste [link](https://github.com/lira1705/mentoria-typescript/tree/main/src/desafios).*
