@@ -1,4 +1,4 @@
-#Introdução Prática ao TypeScript - DIO
+# Introdução Prática ao TypeScript - DIO
 O projeto apresentado faz parte dos desafios da plataforma Digital Innovation One, através do Santander Bootcamp Fullstack Developer.
 
 ❯❯ 🚀 DESAFIO ↓
